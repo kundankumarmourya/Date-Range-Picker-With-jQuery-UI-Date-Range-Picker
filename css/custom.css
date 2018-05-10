@@ -1,0 +1,23 @@
+.ui-widget-content{
+  background-color: #30898f;
+  background-image: none;
+}
+.custom-select{
+  -webkit-appearance:none;
+  -moz-appearance:none;
+}
+.ui-widget-header{
+  background-color:  #14494c;
+  background-image: none;
+  border: 1px solid #ffffff;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+  color: #000;
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl{
+  border-radius: 0;
+}
+.form-inline .btn-primary, .form-inline .btn-primary:hover{
+  background-color: #30898f;
+    border-color: #30898f;
+}
